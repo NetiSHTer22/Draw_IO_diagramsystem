@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T14:45:30.328Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ar5cd6Hk1RYMjLOUDCsf" version="15.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-21T14:48:14.258Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SULrb4CK_cq43ccJ7Hx6" version="15.0.3" type="github" pages="2">
   <diagram id="oSirYdLmp9dCRgX_CLEi" name="Page-1">
     <mxGraphModel dx="2031" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,6 +113,12 @@
         </mxCell>
         <mxCell id="J16BUrSI-X7YGtZ4N8vv-14" value="&lt;b&gt;DOWNLOAD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="J16BUrSI-X7YGtZ4N8vv-1">
           <mxGeometry x="170" y="570" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J16BUrSI-X7YGtZ4N8vv-15" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;strokeColor=#FF0000;" vertex="1" parent="J16BUrSI-X7YGtZ4N8vv-1">
+          <mxGeometry x="410" y="510" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="J16BUrSI-X7YGtZ4N8vv-16" value="I BECOME TO DOWNLOAD FILE&lt;br&gt;BUT MY SPEED IS LOW." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="J16BUrSI-X7YGtZ4N8vv-1">
+          <mxGeometry x="450" y="580" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
