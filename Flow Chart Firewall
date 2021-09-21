@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T14:56:09.970Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EwxpSD-35MAs01o-WZ99" version="15.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-21T14:56:31.074Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vKqNLuW5BIxNVA35tivz" version="15.0.3" type="github" pages="3">
   <diagram id="oSirYdLmp9dCRgX_CLEi" name="Page-1">
     <mxGraphModel dx="2031" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,11 +188,11 @@
         <mxCell id="MV-Mq2oQGeJxsjAbXK0l-14" value="I BECOME TO DOWNLOAD FILE 4.5 GB&lt;br&gt;BUT MY SPEED IS LOW.&amp;nbsp;&lt;br&gt;&lt;br&gt;SO, I TRY DOWNLOAD WITH BITTORENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="eIjYk93ILLvtN_rK1Tyo-1">
           <mxGeometry x="440" y="580" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MV-Mq2oQGeJxsjAbXK0l-15" value="SPEED INTERNET IS 10Mbps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="eIjYk93ILLvtN_rK1Tyo-1">
-          <mxGeometry x="465" y="485" width="180" height="20" as="geometry" />
+        <mxCell id="MV-Mq2oQGeJxsjAbXK0l-15" value="SPEED INTERNET IS 10Mbps UPTO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="eIjYk93ILLvtN_rK1Tyo-1">
+          <mxGeometry x="445" y="485" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MV-Mq2oQGeJxsjAbXK0l-16" value="&lt;b&gt;3 Mbps Upload&lt;br&gt;10 Mbps Download&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="eIjYk93ILLvtN_rK1Tyo-1">
-          <mxGeometry x="645" y="485" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="480" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
